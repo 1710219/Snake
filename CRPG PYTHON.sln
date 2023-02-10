@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CRPG PYTHON", "CRPG PYTHON\CRPG PYTHON.pyproj", "{78774F04-E29E-4512-8544-BE12C7D5B5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78774F04-E29E-4512-8544-BE12C7D5B5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78774F04-E29E-4512-8544-BE12C7D5B5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCD0E4C-56A1-4106-8A4D-F7CA22EFF500}
+	EndGlobalSection
+EndGlobal
