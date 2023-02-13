@@ -1,0 +1,1 @@
+gprint("\033[91m {}\033[00m" .format("cat"))
